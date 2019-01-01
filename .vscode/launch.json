@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PreconditionsGuava",
+            "request": "launch",
+            "mainClass": "com.daniel.PreconditionsGuava",
+            "projectName": "vscodeSampleJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GuavaTester",
+            "request": "launch",
+            "mainClass": "com.daniel.GuavaTester",
+            "projectName": "vscodeSampleJava"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.daniel.App",
+            "projectName": "vscodeSampleJava"
+        }
+    ]
+}
